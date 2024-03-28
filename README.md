@@ -1,8 +1,8 @@
 # Book Manager application
 
 ## Build
-Build the project with `javac Main.java` and then run the main
-class. with `java Main`
+The project can be built by compiling the Main class in the `src/main/java`
+ directory with `javac Main.java` and then run the main class. with `java Main`
 
 ## Documentation 
 A javadoc can be found in the doc directory and a code review PDF can
